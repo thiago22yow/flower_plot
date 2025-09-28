@@ -1,0 +1,11 @@
+label,shared,singletons,group,order
+Sample 01,194,12,AbALV,1
+Sample 06,112,15,AbALV,2
+Sample 02,361,125,Asfarvirus,1
+Sample 07,175,111,Asfarvirus,2
+Sample 03,308,71,Faustovirus,1
+Sample 08,318,258,Faustovirus,2
+Sample 04,184,279,Kaumoebavirus,1
+Sample 09,107,287,Kaumoebavirus,2
+Sample 05,169,216,Pacmanvirus,1
+Sample 10,283,279,Pacmanvirus,2
